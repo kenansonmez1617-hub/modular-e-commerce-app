@@ -62,7 +62,7 @@ State yönetimi, sepet mantığı ve localStorage veri kalıcılığı
 <h2>📂 Proje Yapısı</h2>
 
 <pre>
-modular-ecommerce-app/
+modular-e-commerce-app/
 │
 ├── index.html
 ├── style.css
@@ -100,7 +100,7 @@ modular-ecommerce-app/
 <p>Projeyi klonlayın:</p>
 
 <pre>
-git clone https://github.com/kenansonmez1617-hub/modular-ecommerce-app.git
+git clone https://github.com/kenansonmez1617-hub/modular-e-commerce-app.git
 </pre>
 
 <p>
